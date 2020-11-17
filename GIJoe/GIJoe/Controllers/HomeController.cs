@@ -18,8 +18,12 @@ namespace GIJoe.Controllers
             _logger = logger;
         }
 
+
         public IActionResult Index()
         {
+            _logger.LogDebug("test debug log");
+            _logger.LogError("test error log");
+            _logger.LogInformation("test info log");
             return View();
         }
 

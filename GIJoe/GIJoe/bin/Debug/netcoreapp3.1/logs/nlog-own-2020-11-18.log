@@ -1,0 +1,14 @@
+2020-11-18 00:24:34.0524||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2020-11-18 00:24:34.1196||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2020-11-18 00:24:34.1483||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe |url: |action: 
+2020-11-18 00:24:34.1901||ERROR|GIJoe.Controllers.HomeController|test error log |url: http://localhost/|action: Index
+2020-11-18 00:24:34.1901||INFO|GIJoe.Controllers.HomeController|test info log |url: http://localhost/|action: Index
+2020-11-18 00:36:53.8993||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2020-11-18 00:36:53.9479||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2020-11-18 00:36:53.9656||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe |url: |action: 
+2020-11-18 00:46:13.6054||DEBUG|GIJoe.Program|init main |url: |action: 
+2020-11-18 00:46:14.6515||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2020-11-18 00:46:14.6590||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2020-11-18 00:46:14.6723||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe |url: |action: 
+2020-11-18 00:46:14.7478||ERROR|GIJoe.Controllers.HomeController|test error log |url: http://localhost/|action: Index
+2020-11-18 00:46:14.7537||INFO|GIJoe.Controllers.HomeController|test info log |url: http://localhost/|action: Index
