@@ -6,16 +6,18 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace GIJoe.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly DBContext _DBContext;
+        public HomeController(ILogger<HomeController> logger,DBContext dbcontext)
         {
             _logger = logger;
+            _DBContext = dbcontext;
         }
 
 
@@ -23,7 +25,11 @@ namespace GIJoe.Controllers
         {
             _logger.LogDebug("test debug log");
             _logger.LogError("test error log");
-            _logger.LogInformation("test info log");
+            foreach(var namelist in _DBContext.names)
+            {
+                _logger.LogInformation($"name:{namelist.name},age:{namelist.age}");
+            }
+            
             return View();
         }
 

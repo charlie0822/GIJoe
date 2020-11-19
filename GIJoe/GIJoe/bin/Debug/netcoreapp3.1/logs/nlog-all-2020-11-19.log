@@ -1,0 +1,68 @@
+2020-11-19 00:01:24.4951||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:01:35.0114||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:01:37.3318||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:01:37.3318||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:01:37.3541||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:01:37.4502||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:01:37.4738||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[System.Boolean],age:Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[GIJoe.Models.nameage] 
+2020-11-19 00:02:18.9472||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:02:21.1628||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:02:21.1701||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:02:21.1701||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:02:21.2487||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:02:21.2667||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[GIJoe.Models.nameage],age:Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[GIJoe.Models.nameage] 
+2020-11-19 00:04:57.7797||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:04:59.8288||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:04:59.8288||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:04:59.8523||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:04:59.9160||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:04:59.9332||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[GIJoe.Models.nameage],age:Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[GIJoe.Models.nameage] 
+2020-11-19 00:06:25.6103||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:06:28.1307||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:06:28.1406||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:06:28.1406||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:06:28.2189||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:06:28.5517||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[GIJoe.Models.nameage],age:GIJoe.Models.nameage 
+2020-11-19 00:07:19.6105||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:07:21.7993||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:07:21.8104||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:07:21.8104||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:07:21.8872||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:07:22.2265||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[GIJoe.Models.nameage],age:GIJoe.Models.nameage 
+2020-11-19 00:08:55.5608||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:08:57.8141||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:08:57.8141||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:08:57.8389||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:08:57.9072||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:08:58.2335||INFO|GIJoe.Controllers.HomeController|name:Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[GIJoe.Models.nameages],age:GIJoe.Models.nameages 
+2020-11-19 00:09:30.8038||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:09:33.1692||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:09:33.1859||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:09:33.2100||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:09:33.2632||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:09:33.6183||INFO|GIJoe.Controllers.HomeController|name:GIJoe.Models.nameages,age:GIJoe.Models.nameages 
+2020-11-19 00:11:44.7394||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:11:47.1874||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:11:47.1874||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:11:47.2117||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:11:47.2903||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:11:47.9604||INFO|GIJoe.Controllers.HomeController|name:System.Collections.Generic.List`1[GIJoe.Models.nameages],age:GIJoe.Models.nameages 
+2020-11-19 00:12:17.7867||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:12:19.9777||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:12:19.9840||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:12:20.0007||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:12:20.0834||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:12:20.4449||INFO|GIJoe.Controllers.HomeController|name:GIJoe.Models.nameages,age:GIJoe.Models.nameages 
+2020-11-19 00:13:52.3855||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:13:54.9221||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:13:54.9476||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:13:54.9656||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:13:55.1155||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:13:55.4438||INFO|GIJoe.Controllers.HomeController|name:GIJoe.Models.nameages,age:GIJoe.Models.nameages 
+2020-11-19 00:17:29.4423||DEBUG|GIJoe.Program|init main 
+2020-11-19 00:17:31.6096||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 00:17:31.6096||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 00:17:31.6332||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 00:17:31.6906||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 00:17:31.9593||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 00:17:31.9593||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 

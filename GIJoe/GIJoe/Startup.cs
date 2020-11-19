@@ -1,8 +1,10 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,10 +25,17 @@ namespace GIJoe
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<DBContext>(options =>
+            {
+                options.UseMySql(Configuration.GetConnectionString("DefaultConnection"), mysqlOptions =>
+                {
+                    mysqlOptions.ServerVersion(new Version(10, 5, 8), ServerType.MySql);
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,DBContext dbContext)
         {
             if (env.IsDevelopment())
             {
@@ -48,6 +57,7 @@ namespace GIJoe
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+            dbContext.Database.EnsureCreated();
         }
     }
 }
