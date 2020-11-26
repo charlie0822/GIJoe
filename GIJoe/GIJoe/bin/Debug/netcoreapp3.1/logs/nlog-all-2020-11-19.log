@@ -66,3 +66,46 @@
 2020-11-19 00:17:31.6906||ERROR|GIJoe.Controllers.HomeController|test error log 
 2020-11-19 00:17:31.9593||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
 2020-11-19 00:17:31.9593||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 
+2020-11-19 20:18:14.5739||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:18:16.8186||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:18:16.8186||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:18:16.8368||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:20:49.2129||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:20:51.2503||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:20:51.2503||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:20:51.2741||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:21:02.6392||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:21:04.8652||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:21:04.8918||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:21:04.9079||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:21:04.9449||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 20:21:05.1726||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 20:21:05.1726||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 
+2020-11-19 20:25:49.0058||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:25:50.9810||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:25:50.9879||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:25:51.0027||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:25:51.0778||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 20:25:51.3349||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 20:25:51.3349||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 
+2020-11-19 20:31:14.4423||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:31:17.0501||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:31:17.0501||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:31:17.0729||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:31:17.1453||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 20:31:17.3816||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 20:31:17.3816||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 
+2020-11-19 20:34:04.4294||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:34:06.5494||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:34:06.5712||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:34:06.5973||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:34:06.6357||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 20:34:06.8839||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 20:34:06.8839||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 
+2020-11-19 20:38:33.3049||DEBUG|GIJoe.Program|init main 
+2020-11-19 20:38:36.1236||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-11-19 20:38:36.1411||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-11-19 20:38:36.1599||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe 
+2020-11-19 20:38:36.2278||ERROR|GIJoe.Controllers.HomeController|test error log 
+2020-11-19 20:38:36.4839||INFO|GIJoe.Controllers.HomeController|name:charlie,age:23 
+2020-11-19 20:38:36.4839||INFO|GIJoe.Controllers.HomeController|name:steven,age:25 

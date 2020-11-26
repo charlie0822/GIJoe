@@ -63,3 +63,6 @@ C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\bin\Debug\netcoreapp3.1\Pomelo.JsonObj
 C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\bin\Debug\netcoreapp3.1\System.Data.Entity.Repository.dll
 C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\bin\Debug\netcoreapp3.1\GIJoe.StaticWebAssets.xml
+C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\B\source\repos\GIJoe\GIJoe\GIJoe\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs

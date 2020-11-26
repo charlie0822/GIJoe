@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "GIJoe/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "5.0.0",
           "NLog.Web.AspNetCore": "4.9.3",
           "Pomelo.EntityFrameworkCore.MySql": "3.2.4",
           "System.Data.Entity.Repository": "2.0.0.1",
@@ -315,6 +316,7 @@
           "lib/net45/EntityFramework.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Identity.UI/5.0.0": {},
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
@@ -2301,6 +2303,13 @@
       "sha512": "sha512-WYfgJWKg/RjwU8pzZkImD9DsV+J1nqDcIGp1S0/bdnElKBmAaUC2nmq/QQAcco32KyQQWnLgJNiDzIOz2xWFbQ==",
       "path": "entityframework/5.0.0",
       "hashPath": "entityframework.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Identity.UI/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2rx9bkkecYW5/Qp74CeteE3FS930kgTSg4nSiuVXRvf95ZXu+BQDTNKfngi1FDaqSfHbicxnyvMRLtEPYWEcVA==",
+      "path": "microsoft.aspnetcore.identity.ui/5.0.0",
+      "hashPath": "microsoft.aspnetcore.identity.ui.5.0.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

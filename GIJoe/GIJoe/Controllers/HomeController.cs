@@ -25,17 +25,25 @@ namespace GIJoe.Controllers
         {
             _logger.LogDebug("test debug log");
             _logger.LogError("test error log");
-            foreach(var namelist in _DBContext.names)
-            {
-                _logger.LogInformation($"name:{namelist.name},age:{namelist.age}");
-            }
-            
             return View();
         }
 
-        public IActionResult Privacy()
+        public async Task<IActionResult> Register(User request)
         {
+
+
             return View();
+        }
+        //[HttpPost]
+        public IActionResult Login(User request)
+        {
+
+
+            return View();
+        }
+        private bool HasSpecialChars(string yourString)
+        {
+            return yourString.Any(ch => !char.IsLetterOrDigit(ch));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

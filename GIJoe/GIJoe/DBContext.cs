@@ -11,10 +11,10 @@ namespace GIJoe
     {
         public DBContext(DbContextOptions<DBContext> options) : base(options) { }
 
-        public DbSet<nameages> names { get; set; }
+        public DbSet<User> user { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<nameages>();
+            modelBuilder.Entity<User>();
         }
 
 

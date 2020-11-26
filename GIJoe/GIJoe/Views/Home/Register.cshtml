@@ -1,0 +1,40 @@
+﻿@model GIJoe.Models.User
+@{
+    ViewData["Title"] = "Register user";
+    var content = ViewBag.Content;
+}
+<h1>@content</h1>
+
+
+<body>
+    @using (Html.BeginForm("Register", "Home", FormMethod.Post))
+    {
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <th colspan="2" align="center">Login</th>
+        </tr>
+        <tr>
+            <td>Username: </td>
+            <td>
+                @Html.TextBoxFor(m => m.username)
+            </td>
+        </tr>
+        <tr>
+            <td>Password: </td>
+            <td>
+                @Html.Password("password", "", new { id = "password", Textmode = "Password" })
+            </td>
+        </tr>
+        <tr>
+            <td>Mail: </td>
+            <td>
+                @Html.TextBoxFor(m => m.mail)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+        </tr>
+    </table>
+    }
+</body>
